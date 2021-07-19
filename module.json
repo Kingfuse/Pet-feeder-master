@@ -1,0 +1,14 @@
+{
+    "disableAutoUpdate": true,
+    "name": "pet-feeder",
+    "author": "edu / teralove",
+    "description": "Auto feed your pets.",
+    "options": {
+        "niceName": "Pet Feeder",
+        "settingsVersion": 1,
+        "settingsFile": "config.json",
+        "settingsMigrator": "settings_migrator.js",
+        "reloadable": true
+    },
+    "servers": ["https://raw.githubusercontent.com/eduedp/pet-feeder/master/"]
+}
