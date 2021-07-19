@@ -1,4 +1,4 @@
-# pet-feeder
+# Pet-Feeder For Memna's Serveur
 Keep your pets happy. Auto-feed your pets.
 
 ## Info
