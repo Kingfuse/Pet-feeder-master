@@ -10,5 +10,5 @@
         "settingsMigrator": "settings_migrator.js",
         "reloadable": true
     },
-    "servers": ["https://raw.githubusercontent.com/eduedp/pet-feeder/master/"]
+    "servers": [""]
 }
