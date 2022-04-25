@@ -2,6 +2,6 @@
     "version": 1,
     "data": {
         "enabled": true,
-        "minimumEnergy": 90
+        "minimumEnergy": 50
     }
 }
