@@ -3,7 +3,7 @@
 const DefaultSettings = {
     "enabled": true, 
     "sendNotifications": true, // Send notifications when items are consumed
-    "minimumEnergy": 90 // How much remaining energy the pet needs to trigger feeding, (can't use pet functions below 10)
+    "minimumEnergy": 50 // How much remaining energy the pet needs to trigger feeding, (can't use pet functions below 10)
 }
 
 module.exports = function MigrateSettings(from_ver, to_ver, settings) {
